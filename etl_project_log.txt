@@ -1,0 +1,8 @@
+2024-Mar-19-19:45:32 : Fase Preliminar Completa. Iiniciando el proceso de Extraccion Transformacion y Carga
+2024-Mar-19-19:50:18 : Fase Preliminar Completa. Iiniciando el proceso de Extraccion Transformacion y Carga
+2024-Mar-19-19:50:20 : Extraccion de Datos Completa. Iniciando el Proceso de Transformacion
+2024-Mar-19-19:50:20 : Transformacion de los Datos Completa. Iniciando el Proceso de Carga
+2024-Mar-19-19:50:20 : Datos Guardados en archivo CSV
+2024-Mar-19-19:50:20 : Conexion a la Base de Datos SQL comenzando .
+2024-Mar-19-19:50:20 : Datos cargados en la base de datos como tabla. Ejecutando la consulta
+2024-Mar-19-19:50:20 : Proceso ETL Completo!.
